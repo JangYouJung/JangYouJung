@@ -13,9 +13,9 @@
 
 -->
 
-<!--
+
     
-## 🌱 My Tech Stack 
+## 🌱 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div align= "center">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -32,7 +32,7 @@
 </div>
 
 <br></br>
-## 🏅 My GitHub Stats
+## 🏅 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangYouJung&show_icons=true&theme=radical)
 <br></br>
 
