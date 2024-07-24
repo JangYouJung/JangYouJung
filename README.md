@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=YouJung+Jang&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hello%20World,%20Welcome%20to%20my%20Github!&descAlignY=57&descAlign=62)
 
  
- 
+   
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=11&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+World!+Welcome+To+YouJung's+GitHub)](https://git.io/typing-svg)
 
