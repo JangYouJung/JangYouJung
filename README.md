@@ -20,15 +20,9 @@
 </p>
 
 -->
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/JangYouJung"
-  width="600"
-  height="300"
-/>
-</a>
 
-<!--
+
+
 ## 🌱 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div align= "center">
@@ -50,6 +44,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangYouJung&show_icons=true&theme=radical)
 <br></br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JangYouJung"
+  width="600"
+  height="300"
+/>
+</a>
+<!--
 
 ## 🖥️ My Coding Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunny819819)](https://solved.ac/sunny819819)
