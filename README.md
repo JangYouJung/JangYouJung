@@ -27,7 +27,7 @@
 <br></br>
 -->
 
-
+<!--
 ## 🌱 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div align= "center">
@@ -43,7 +43,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     </div>
 </div>
-
+ 
+-->
 
 
 <a href="https://github.com/devxb/gitanimals">
